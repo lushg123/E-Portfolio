@@ -1,10 +1,9 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:/Users/lushg123.stu/Desktop/GIT/E-Portfolio
 
 website:
-  title: "Your E-Portfolio"
-  navbar:
+  title: "Grace Lush"  navbar:
     left:
       - href: index.qmd
         text: Home
