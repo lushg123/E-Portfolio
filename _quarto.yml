@@ -3,7 +3,8 @@ project:
   output-dir: C:/Users/lushg123.stu/Desktop/GIT/E-Portfolio
 
 website:
-  title: "Grace Lush"  navbar:
+  title: "Grace Lush"  
+  navbar:
     left:
       - href: index.qmd
         text: Home
