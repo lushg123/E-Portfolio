@@ -2,81 +2,78 @@
 title: "Resume"
 ---
 
-
 ### Education
 
-**Master of Geomatics for Environmental Management**  
-**University of British Columbia, Vancouver, BC** | 2025 – Present  
+**Master of Geomatics for Environmental Management**\
+**University of British Columbia, Vancouver, BC** \| 2025 – Present
 
-- Focused on remote sensing, spatial analysis, and environmental management  
-- Gaining expertise in GIS, imaging spectroscopy, and environmental modeling  
-- Applied coursework and projects emphasize practical environmental data analysis and decision support  
+-   Focused on remote sensing, spatial analysis, and environmental management\
+-   Gaining expertise in GIS, imaging spectroscopy, and environmental modeling\
+-   Applied coursework and projects emphasize practical environmental data analysis and decision support
 
-**Bachelor of Science in Environmental Sciences** – *Environmental Science with Co-op*  
-**University of Guelph, Guelph, ON** | September 2020 – 2025  
+**Bachelor of Science in Environmental Sciences** – *Environmental Science with Co-op*\
+**University of Guelph, Guelph, ON** \| September 2020 – 2025
 
-- Completed 22 credits, including:  
-  - *Waterborne Disease Ecology*: Epidemiology and ecology of pathogens in aquatic systems  
-  - *Toxicological Risk Assessment*: Effects of environmental contaminants on ecosystems and human health  
-- Gained practical environmental lab experience 
-- Hands-on field research including soil and water sampling, site analysis, technical reporting  
-- Collaborated on environmental interpretation projects and explored advanced topics such as environmental remediation strategies and pesticide risk assessment  
-
+-   Completed 22 credits, including:
+    -   *Waterborne Disease Ecology*: Epidemiology and ecology of pathogens in aquatic systems\
+    -   *Toxicological Risk Assessment*: Effects of environmental contaminants on ecosystems and human health\
+-   Gained practical environmental lab experience
+-   Hands-on field research including soil and water sampling, site analysis, technical reporting\
+-   Collaborated on environmental interpretation projects and explored advanced topics such as environmental remediation strategies and pesticide risk assessment
 
 ### Work Experience
 
-**Field Technician** – *XS Soil Solutions Inc., Oakville, ON*  
-*May 2023 – August 2025 | Full-time (40 hrs/week)*  
+**Field Technician** – *XS Soil Solutions Inc., Oakville, ON*\
+*May 2023 – August 2025 \| Full-time (40 hrs/week)*
 
-- Conducted site visits to evaluate excess soil conditions and compliance with environmental regulations  
-- Collected, processed, and analyzed soil samples; prepared technical reports  
-- Coordinated with clients, contractors, and regulatory agencies  
-- Gained hands-on experience with soil remediation techniques and environmental legislation  
+-   Conducted site visits to evaluate excess soil conditions and compliance with environmental regulations\
+-   Collected, processed, and analyzed soil samples; prepared technical reports\
+-   Coordinated with clients, contractors, and regulatory agencies\
+-   Gained hands-on experience with soil remediation techniques and environmental legislation
 
-**Research Assistant** – *University of Guelph, Guelph, ON*  
-*September 2022 – December 2022 | Full-time (40 hrs/week)*  
+**Research Assistant** – *University of Guelph, Guelph, ON*\
+*September 2022 – December 2022 \| Full-time (40 hrs/week)*
 
-- Researched cyanobacteria in small urban lakes; ensured high-quality data collection  
-- Assisted in field sampling and data measurement; prepared detailed reports  
-- Organized research data in various software programs  
+-   Researched cyanobacteria in small urban lakes; ensured high-quality data collection\
+-   Assisted in field sampling and data measurement; prepared detailed reports\
+-   Organized research data in various software programs
 
-**Environmental Intern** – *Morguard Investments, Mississauga, ON*  
-*January 2022 – April 2022 | Full-time (40 hrs/week)*  
+**Environmental Intern** – *Morguard Investments, Mississauga, ON*\
+*January 2022 – April 2022 \| Full-time (40 hrs/week)*
 
-- Supported environmental management system and electronic filing system  
-- Assisted with report review, data entry, and finalization of environmental reports  
-- Ensured data integrity and supported departmental projects as required  
+-   Supported environmental management system and electronic filing system\
+-   Assisted with report review, data entry, and finalization of environmental reports\
+-   Ensured data integrity and supported departmental projects as required
 
 ### Technical Skills
 
 **Remote Sensing & GIS:**
 
-- ArcGIS Pro, QGIS, and spatial data analysis  
-- Imaging spectroscopy and hyperspectral analysis  
-- LiDAR data processing and 3D terrain modeling  
-- Satellite imagery interpretation
-- Land cover classification, change detection, and mapping  
+-   ArcGIS Pro, QGIS, and spatial data analysis\
+-   Imaging spectroscopy and hyperspectral analysis\
+-   LiDAR data processing and 3D terrain modeling\
+-   Satellite imagery interpretation
+-   Land cover classification, change detection, and mapping
 
 **Environmental & Laboratory Skills:**
 
-- PCR, DNA extraction, differential media testing  
-- Soil and water sampling, site assessment, and field surveys  
-- Environmental monitoring and technical reporting  
+-   PCR, DNA extraction, differential media testing\
+-   Soil and water sampling, site assessment, and field surveys\
+-   Environmental monitoring and technical reporting
 
 **Data & Programming:**
 
-- R and Python for environmental data analysis and visualization  
-- Microsoft Excel, Word, and PowerPoint  
-- Database management and data cleaning  
+-   R and Python for environmental data analysis and visualization\
+-   Microsoft Excel, Word, and PowerPoint\
+-   Database management and data cleaning
 
 ## Soft Skills
 
-- **Communication:** Clearly convey technical and complex information in both professional and client-facing settings; adept at explaining procedures, findings, and recommendations  
-- **Teamwork & Collaboration:** Work effectively with research teams, lab colleagues, and service staff to achieve goals and ensure smooth operations  
-- **Customer Service & Client Relations:** Built strong relationships with clients and customers, resolving concerns professionally and ensuring positive experiences  
-- **Organization & Time Management:** Successfully manage multiple tasks, projects, and responsibilities in fieldwork, laboratory settings, and fast-paced service environments  
-- **Problem Solving & Adaptability:** Quickly identify solutions in dynamic situations, whether in research projects, environmental fieldwork, or high-pressure customer service  
-- **Leadership & Mentoring:** Guided junior team members, trained new staff, and supported colleagues in both academic and professional settings  
+-   **Communication:** Clearly convey technical and complex information in both professional and client-facing settings; adept at explaining procedures, findings, and recommendations\
+-   **Teamwork & Collaboration:** Work effectively with research teams, lab colleagues, and service staff to achieve goals and ensure smooth operations\
+-   **Customer Service & Client Relations:** Built strong relationships with clients and customers, resolving concerns professionally and ensuring positive experiences\
+-   **Organization & Time Management:** Successfully manage multiple tasks, projects, and responsibilities in fieldwork, laboratory settings, and fast-paced service environments\
+-   **Problem Solving & Adaptability:** Quickly identify solutions in dynamic situations, whether in research projects, environmental fieldwork, or high-pressure customer service\
+-   **Leadership & Mentoring:** Guided junior team members, trained new staff, and supported colleagues in both academic and professional settings
 
-
----
+------------------------------------------------------------------------
