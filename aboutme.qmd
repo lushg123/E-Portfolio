@@ -1,6 +1,5 @@
 ---
 title: "About Me!"
-image: images/bear_photo.jpg
 about:
   template: trestles
   image-width: 20em
