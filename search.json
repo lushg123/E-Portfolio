@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Grace Lush",
     "section": "",
-    "text": "Hello, welcome to my E-Portfolio.\nMy name is Grace Lush, a graduate of the University of Guelph and a current master’s student at the University of British Columbia. I completed my undergraduate degree in Environmental Science in 2025, where I developed a strong foundation in ecological systems, environmental analysis, and applied environmental management.\nDuring my undergraduate studies, I completed several co-op positions in environmental-related roles, which provided valuable hands-on experience and helped bridge the gap between academic learning and real-world environmental work. These positions allowed me to gain practical skills while exploring different areas of the environmental field.\nI am currently pursuing a Master of Geomatics for Environmental Management at UBC. Through this program, I have developed a strong interest in geomatics and remote sensing, particularly in how spatial data and satellite imagery can be used to analyze and monitor environmental change.\nMy academic and professional interests lie at the intersection of ecology and geospatial technology. I am particularly interested in how remote sensing and spatial analysis can be used to better understand ecological patterns, monitor landscapes, and support environmental decision-making."
+    "text": "About Me\n\n\n\nResume\n\n\n\nCourse Deliverables\n\n\n\nContent & Deliverables"
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Education\n\nList your education here.\n\n\n\nPublications\nPeer-reviewed publications:\n\nList any peer-reviewed publications here.\n\nReports:\n\nList any non-peer reviewed materials you’d like to share here.\n\n\n\nConferences & Talks\nInvited Talks\n\nIf you’ve been invited to speak in a professional setting, list that here.\n\nConference Presentations\n\nIf the presentation was at a conference, list them here.\n\n\n\nAwards & Honors\n\nList any scholarships, bursaries, etc.\n\n\n\nTeaching Assistantships\n\nList any TA positions you may have held.\n\n\n\nInstitutional Service\n\nVolunteering etc."
+    "text": "Master of Geomatics for Environmental Management\nUniversity of British Columbia, Vancouver, BC | 2025 – Present\n\nFocused on remote sensing, spatial analysis, and environmental management\n\nGaining expertise in GIS, imaging spectroscopy, and environmental modeling\n\nApplied coursework and projects emphasize practical environmental data analysis and decision support\n\nBachelor of Science in Environmental Sciences – Environmental Science with Co-op\nUniversity of Guelph, Guelph, ON | September 2020 – 2025\n\nCompleted 22 credits, including:\n\nWaterborne Disease Ecology: Epidemiology and ecology of pathogens in aquatic systems\n\nToxicological Risk Assessment: Effects of environmental contaminants on ecosystems and human health\n\n\nGained practical environmental lab experience\nHands-on field research including soil and water sampling, site analysis, technical reporting\n\nCollaborated on environmental interpretation projects and explored advanced topics such as environmental remediation strategies and pesticide risk assessment"
   },
   {
     "objectID": "publications.html",
@@ -61,5 +61,40 @@
     "title": "About Me!",
     "section": "",
     "text": "How did I get here\nMy name is Grace Lush, a graduate of the University of Guelph and a current master’s student at the University of British Columbia. I completed my undergraduate degree in Environmental Science in 2025, where I developed a strong foundation in ecological systems, environmental analysis, and applied environmental management.\nDuring my undergraduate studies, I completed several co-op positions in environmental-related roles, which provided valuable hands-on experience and helped bridge the gap between academic learning and real-world environmental work. These positions allowed me to gain practical skills while exploring different areas of the environmental field.\nI am currently pursuing a Master of Geomatics for Environmental Management at UBC. Through this program, I have developed a strong interest in geomatics and remote sensing, particularly in how spatial data and satellite imagery can be used to analyze and monitor environmental change.\nMy academic and professional interests lie at the intersection of ecology and geospatial technology. I am particularly interested in how remote sensing and spatial analysis can be used to better understand ecological patterns, monitor landscapes, and support environmental decision-making."
+  },
+  {
+    "objectID": "index.html#explore-my-portfolio",
+    "href": "index.html#explore-my-portfolio",
+    "title": "Grace Lush",
+    "section": "",
+    "text": "About Me\n\n\n\nResume\n\n\n\nCourse Deliverables\n\n\n\nContent & Deliverables"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nMaster of Geomatics for Environmental Management\nUniversity of British Columbia, Vancouver, BC | 2025 – Present\n\nFocused on remote sensing, spatial analysis, and environmental management\n\nGaining expertise in GIS, imaging spectroscopy, and environmental modeling\n\nApplied coursework and projects emphasize practical environmental data analysis and decision support\n\nBachelor of Science in Environmental Sciences – Environmental Science with Co-op\nUniversity of Guelph, Guelph, ON | September 2020 – 2025\n\nCompleted 22 credits, including:\n\nWaterborne Disease Ecology: Epidemiology and ecology of pathogens in aquatic systems\n\nToxicological Risk Assessment: Effects of environmental contaminants on ecosystems and human health\n\n\nGained practical environmental lab experience\nHands-on field research including soil and water sampling, site analysis, technical reporting\n\nCollaborated on environmental interpretation projects and explored advanced topics such as environmental remediation strategies and pesticide risk assessment"
+  },
+  {
+    "objectID": "resume.html#publications",
+    "href": "resume.html#publications",
+    "title": "Resume",
+    "section": "Publications",
+    "text": "Publications\nPeer-reviewed publications:\n\nList any peer-reviewed publications here.\n\nReports:\n\nList any non-peer reviewed materials you’d like to share here."
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Remote Sensing & GIS: - ArcGIS Pro, QGIS, and spatial data analysis\n- Imaging spectroscopy and hyperspectral analysis\n- LiDAR data processing and 3D terrain modeling\n- Satellite imagery interpretation - Land cover classification, change detection, and mapping\nEnvironmental & Laboratory Skills: - PCR, DNA extraction, differential media testing\n- Soil and water sampling, site assessment, and field surveys\n- Environmental monitoring and technical reporting\nData & Programming: - R and Python for environmental data analysis and visualization\n- Microsoft Excel, Word, and PowerPoint\n- Database management and data cleaning"
+  },
+  {
+    "objectID": "resume.html#soft-skills",
+    "href": "resume.html#soft-skills",
+    "title": "Resume",
+    "section": "Soft Skills",
+    "text": "Soft Skills\n\nCommunication: Clearly convey technical and complex information in both professional and client-facing settings; adept at explaining procedures, findings, and recommendations\n\nTeamwork & Collaboration: Work effectively with research teams, lab colleagues, and service staff to achieve goals and ensure smooth operations\n\nCustomer Service & Client Relations: Built strong relationships with clients and customers, resolving concerns professionally and ensuring positive experiences\n\nOrganization & Time Management: Successfully manage multiple tasks, projects, and responsibilities in fieldwork, laboratory settings, and fast-paced service environments\n\nProblem Solving & Adaptability: Quickly identify solutions in dynamic situations, whether in research projects, environmental fieldwork, or high-pressure customer service\n\nLeadership & Mentoring: Guided junior team members, trained new staff, and supported colleagues in both academic and professional settings"
   }
 ]

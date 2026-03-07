@@ -2,38 +2,81 @@
 title: "Resume"
 ---
 
-# Education
 
--   List your education here.
+### Education
 
-# Publications
+**Master of Geomatics for Environmental Management**  
+**University of British Columbia, Vancouver, BC** | 2025 – Present  
 
-*Peer-reviewed publications:*
+- Focused on remote sensing, spatial analysis, and environmental management  
+- Gaining expertise in GIS, imaging spectroscopy, and environmental modeling  
+- Applied coursework and projects emphasize practical environmental data analysis and decision support  
 
--   List any peer-reviewed publications here.
+**Bachelor of Science in Environmental Sciences** – *Environmental Science with Co-op*  
+**University of Guelph, Guelph, ON** | September 2020 – 2025  
 
-*Reports:*
+- Completed 22 credits, including:  
+  - *Waterborne Disease Ecology*: Epidemiology and ecology of pathogens in aquatic systems  
+  - *Toxicological Risk Assessment*: Effects of environmental contaminants on ecosystems and human health  
+- Gained practical environmental lab experience 
+- Hands-on field research including soil and water sampling, site analysis, technical reporting  
+- Collaborated on environmental interpretation projects and explored advanced topics such as environmental remediation strategies and pesticide risk assessment  
 
--   List any non-peer reviewed materials you'd like to share here.
 
-# Conferences & Talks
+### Work Experience
 
-*Invited Talks*
+**Field Technician** – *XS Soil Solutions Inc., Oakville, ON*  
+*May 2023 – August 2025 | Full-time (40 hrs/week)*  
 
--   If you've been invited to speak in a professional setting, list that here.
+- Conducted site visits to evaluate excess soil conditions and compliance with environmental regulations  
+- Collected, processed, and analyzed soil samples; prepared technical reports  
+- Coordinated with clients, contractors, and regulatory agencies  
+- Gained hands-on experience with soil remediation techniques and environmental legislation  
 
-*Conference Presentations*
+**Research Assistant** – *University of Guelph, Guelph, ON*  
+*September 2022 – December 2022 | Full-time (40 hrs/week)*  
 
--   If the presentation was at a conference, list them here.
+- Researched cyanobacteria in small urban lakes; ensured high-quality data collection  
+- Assisted in field sampling and data measurement; prepared detailed reports  
+- Organized research data in various software programs  
 
-# Awards & Honors
+**Environmental Intern** – *Morguard Investments, Mississauga, ON*  
+*January 2022 – April 2022 | Full-time (40 hrs/week)*  
 
--   List any scholarships, bursaries, etc.
+- Supported environmental management system and electronic filing system  
+- Assisted with report review, data entry, and finalization of environmental reports  
+- Ensured data integrity and supported departmental projects as required  
 
-# Teaching Assistantships
+### Technical Skills
 
--   List any TA positions you may have held.
+**Remote Sensing & GIS:**
 
-# Institutional Service
+- ArcGIS Pro, QGIS, and spatial data analysis  
+- Imaging spectroscopy and hyperspectral analysis  
+- LiDAR data processing and 3D terrain modeling  
+- Satellite imagery interpretation
+- Land cover classification, change detection, and mapping  
 
--   Volunteering etc.
+**Environmental & Laboratory Skills:**
+
+- PCR, DNA extraction, differential media testing  
+- Soil and water sampling, site assessment, and field surveys  
+- Environmental monitoring and technical reporting  
+
+**Data & Programming:**
+
+- R and Python for environmental data analysis and visualization  
+- Microsoft Excel, Word, and PowerPoint  
+- Database management and data cleaning  
+
+## Soft Skills
+
+- **Communication:** Clearly convey technical and complex information in both professional and client-facing settings; adept at explaining procedures, findings, and recommendations  
+- **Teamwork & Collaboration:** Work effectively with research teams, lab colleagues, and service staff to achieve goals and ensure smooth operations  
+- **Customer Service & Client Relations:** Built strong relationships with clients and customers, resolving concerns professionally and ensuring positive experiences  
+- **Organization & Time Management:** Successfully manage multiple tasks, projects, and responsibilities in fieldwork, laboratory settings, and fast-paced service environments  
+- **Problem Solving & Adaptability:** Quickly identify solutions in dynamic situations, whether in research projects, environmental fieldwork, or high-pressure customer service  
+- **Leadership & Mentoring:** Guided junior team members, trained new staff, and supported colleagues in both academic and professional settings  
+
+
+---
