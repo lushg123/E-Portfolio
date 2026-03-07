@@ -5,15 +5,10 @@ about:
   template: trestles
   image-width: 20em
   links: 
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-    - icon: github
-      text: GitHub
-      href: https://github.com/ramonmelser
     - icon: envelope-at
       text: Email
       href: mailto:lushg123@student.ubc.ca
 ---
 
+
+# **Welcome to my E-Portfolio**
