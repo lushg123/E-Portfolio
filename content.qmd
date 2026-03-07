@@ -12,23 +12,21 @@ Using high-resolution satellite imagery and geospatial analysis tools, the study
 
 This work highlights my interest in the intersection of ecology and geomatics, demonstrating how remote sensing can be applied to monitor environmental change, support data-driven decision-making, and inform environmental management practices. The findings of this project aim to provide valuable insights for the city of Nanaimo and conservation initiatives focused on the environmental preservation of the area.
 
-## Leaflet
+## My Study Area
 
 Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page [here](https://ubc-mgem-fcor599.github.io/FCOR-599-Workshops/Interactive_Maps/leaflet.html).
 
-```{r leaflet, include = FALSE}
-library(dplyr); library(leaflet)
+```{r leaflet-map, echo=FALSE}
+library(dplyr)
+library(leaflet)
 
-m <- leaflet() %>%
+leaflet() %>%
   addProviderTiles("Esri.WorldImagery") %>%
-  addScaleBar(position = c("bottomleft")) %>%
-  setView(-123.1207, 49.2827, zoom = 11)
-
+  addScaleBar(position = "bottomleft") %>%
+  setView(lng = -123.81988, lat = 49.13603, zoom = 15) %>%
+  addMarkers(lng = -123.81988, lat = 49.13603, popup = "Target Location")
 ```
 
-```{r map, echo=FALSE}
-m
-```
 
 ## Code Snippets
 
