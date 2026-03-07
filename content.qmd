@@ -1,10 +1,8 @@
 ---
-title: "My MGEM Capstone"
+title: "My MGEM Capstone Project"
 format: html
 editor: visual
 ---
-
-# My MGEM Capstone Project
 
 My MGEM capstone projects takes a close look at the Cable Bay area in Nanaimo, BC to investigate spatial and temporal changes in shoreline habitats around Cable Bay using remote sensing and geomatics techniques. The project aims to provide a detailed understanding of how shoreline land cover types have shifted over the period 2020 to 2025, supporting conservation and environmental management efforts in the region.
 
