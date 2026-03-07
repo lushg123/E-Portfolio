@@ -17,21 +17,3 @@ about:
       href: mailto:lushg123@student.ubc.ca
 ---
 
-## Explore My Portfolio
-
-::: {.grid layout-ncol=4}
-
-[![](images/about.jpg)](aboutme.qmd)  
-**About Me**
-
-[![](images/resume.jpg)](resume.qmd)  
-**Resume**
-
-[![](images/course.jpg)](publications.qmd)  
-**Course Deliverables**
-
-[![](images/content.jpg)](content.qmd)  
-**Content & Deliverables**
-
-:::
-
