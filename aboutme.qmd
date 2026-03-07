@@ -4,8 +4,15 @@ image: images/bear_photo.jpg
 about:
   template: trestles
   image-width: 20em
-
 ---
+
+::: {.grid layout-ncol="3"}
+![](C:/Users/lushg123.stu/Desktop/GIT/E-Portfolio/images/penny1.png)
+
+![](C:/Users/lushg123.stu/Desktop/GIT/E-Portfolio/images/grad.jpeg)
+
+![](C:/Users/lushg123.stu/Desktop/GIT/E-Portfolio/images/Photos for portfolio/processed-0AF6773D-BD33-40F9-88D4-9371A02CCCED.jpeg)
+:::
 
 **How did I get here**
 
@@ -17,3 +24,8 @@ I am currently pursuing a Master of Geomatics for Environmental Management at UB
 
 My academic and professional interests lie at the intersection of ecology and geospatial technology. I am particularly interested in how remote sensing and spatial analysis can be used to better understand ecological patterns, monitor landscapes, and support environmental decision-making.
 
+**Outside of Academics**
+
+When I’m not exploring the environment through academics , you can usually find me instead outdoors enjoying nature, whether that is through it’s hiking, swimming, or just soaking in a scenic view. I also have a deep love for animals and have always found immense joy from any wildlife encounter or just spend time with my pets.
+
+Traveling is one of my favorite ways to experience new landscapes, and I love finding new outdoor adventures wherever I can. I also enjoy staying active through sports, from casual games with friends to exploring new activities. These experiences outside of academics fuel my curiosity, creativity, and appreciation for the world I study in my research.
