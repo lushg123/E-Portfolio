@@ -1,6 +1,5 @@
 ---
 title: "Grace Lush"
-image: images/Remote-sensing.jpg.webp
 about:
   template: trestles
   image-width: 20em

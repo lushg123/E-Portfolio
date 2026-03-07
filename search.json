@@ -16,9 +16,9 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Deliverables",
     "section": "",
-    "text": "Peer-reviewed publications:\nDespite listing them on your resume, it may also be pertinent to create a seperate tab for publications and reports. As your career progresses, this list may become quite long, so be sure to organize things. You may want to point to ‘most recent’ publications, or categorize things by project/topic."
+    "text": "GEM 511 - Advanced Geographic Information Systems for Environmental Management\nGEM 521 - Advanced Earth Observation and Image Processing"
   },
   {
     "objectID": "content_development.html",
@@ -30,9 +30,9 @@
   {
     "objectID": "content.html",
     "href": "content.html",
-    "title": "Content & Deliverables",
+    "title": "My MGEM Capstone",
     "section": "",
-    "text": "My MGEM capstone projects takes a close look at the Cable Bay area in Nanaimo, BC to investigate spatial and temporal changes in shoreline habitats around Cable Bay using remote sensing and geomatics techniques. The project aims to provide a detailed understanding of how shoreline land cover types have shifted over the period 2020 to 2025, supporting conservation and environmental management efforts in the region.\nUsing high-resolution satellite imagery and geospatial analysis tools, the study identifies patterns in shoreline vegetation, intertidal zones, and other ecological features. The project leverages land cover classification, image differencing, and GIS-based spatial analysis to quantify habitat changes and map areas of significant ecological transformation.\nThis work highlights my interest in the intersection of ecology and geomatics, demonstrating how remote sensing can be applied to monitor environmental change, support data-driven decision-making, and inform environmental management practices. The findings of this project aim to provide valuable insights for the city of Nanaimo and conservation initiatives focused on the environmental preservation of the area.\n\n\nSample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here.\n\n\nWarning: package 'dplyr' was built under R version 4.5.1\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nWarning: package 'leaflet' was built under R version 4.5.1\n\n\n\n\n\n\n\n\n\nSample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)\n\n\n\n\n\n\nYou can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+    "text": "My MGEM capstone projects takes a close look at the Cable Bay area in Nanaimo, BC to investigate spatial and temporal changes in shoreline habitats around Cable Bay using remote sensing and geomatics techniques. The project aims to provide a detailed understanding of how shoreline land cover types have shifted over the period 2020 to 2025, supporting conservation and environmental management efforts in the region.\nUsing high-resolution satellite imagery and geospatial analysis tools, the study identifies patterns in shoreline vegetation, intertidal zones, and other ecological features. The project leverages land cover classification, image differencing, and GIS-based spatial analysis to quantify habitat changes and map areas of significant ecological transformation.\nThis work highlights my interest in the intersection of ecology and geomatics, demonstrating how remote sensing can be applied to monitor environmental change, support data-driven decision-making, and inform environmental management practices. The findings of this project aim to provide valuable insights for the city of Nanaimo and conservation initiatives focused on the environmental preservation of the area.\n\n\nBelow displays the study area for my capstone, the Cable Cay trail shoreline in Nanaimo, BC!\n\n\nWarning: package 'dplyr' was built under R version 4.5.1\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nWarning: package 'leaflet' was built under R version 4.5.1\n\n\n\n\n\n\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
   },
   {
     "objectID": "content.html#leaflet",
@@ -44,14 +44,14 @@
   {
     "objectID": "content.html#code-snippets",
     "href": "content.html#code-snippets",
-    "title": "Content & Deliverables",
+    "title": "My MGEM Capstone",
     "section": "",
     "text": "Sample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
   },
   {
     "objectID": "content.html#external-links",
     "href": "content.html#external-links",
-    "title": "Content & Deliverables",
+    "title": "My MGEM Capstone",
     "section": "",
     "text": "You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
   },
@@ -100,8 +100,8 @@
   {
     "objectID": "content.html#my-study-area",
     "href": "content.html#my-study-area",
-    "title": "Content & Deliverables",
+    "title": "My MGEM Capstone",
     "section": "",
-    "text": "Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here.\n\n\nWarning: package 'dplyr' was built under R version 4.5.1\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nWarning: package 'leaflet' was built under R version 4.5.1"
+    "text": "Below displays the study area for my capstone, the Cable Cay trail shoreline in Nanaimo, BC!\n\n\nWarning: package 'dplyr' was built under R version 4.5.1\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nWarning: package 'leaflet' was built under R version 4.5.1\n\n\n\n\n\n\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
   }
 ]
