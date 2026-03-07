@@ -4,11 +4,13 @@ format: html
 editor: visual
 ---
 
-# Project 1 - Capstone Deliverables
+# My MGEM Capstone Project
 
-This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen ("On this page").
+My MGEM capstone projects takes a close look at the Cable Bay area in Nanaimo, BC to investigate spatial and temporal changes in shoreline habitats around Cable Bay using remote sensing and geomatics techniques. The project aims to provide a detailed understanding of how shoreline land cover types have shifted over the period 2020 to 2025, supporting conservation and environmental management efforts in the region.
 
-If you've produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages.
+Using high-resolution satellite imagery and geospatial analysis tools, the study identifies patterns in shoreline vegetation, intertidal zones, and other ecological features. The project leverages land cover classification, image differencing, and GIS-based spatial analysis to quantify habitat changes and map areas of significant ecological transformation.
+
+This work highlights my interest in the intersection of ecology and geomatics, demonstrating how remote sensing can be applied to monitor environmental change, support data-driven decision-making, and inform environmental management practices. The findings of this project aim to provide valuable insights for the city of Nanaimo and conservation initiatives focused on the environmental preservation of the area.
 
 ## Leaflet
 
@@ -69,7 +71,6 @@ src="https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool"
 The full-screen GEE application is available [here](https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool) in case you're interested.
 
 (To use the GEE tool, navigate to any city you'd like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)
-
 
 ```{=html}
 <iframe width="900" height="700" src="https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool"></iframe>

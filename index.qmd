@@ -1,6 +1,6 @@
 ---
 title: "Grace Lush"
-image: images/bear_photo.jpg
+image: images/Remote-sensing.jpg.webp
 about:
   template: trestles
   image-width: 20em
@@ -17,13 +17,4 @@ about:
       href: mailto:lushg123@student.ubc.ca
 ---
 
-**Hello, welcome to my E-Portfolio.**
-
-My name is Grace Lush, a graduate of the University of Guelph and a current master’s student at the University of British Columbia. I completed my undergraduate degree in Environmental Science in 2025, where I developed a strong foundation in ecological systems, environmental analysis, and applied environmental management.
-
-During my undergraduate studies, I completed several co-op positions in environmental-related roles, which provided valuable hands-on experience and helped bridge the gap between academic learning and real-world environmental work. These positions allowed me to gain practical skills while exploring different areas of the environmental field.
-
-I am currently pursuing a Master of Geomatics for Environmental Management at UBC. Through this program, I have developed a strong interest in geomatics and remote sensing, particularly in how spatial data and satellite imagery can be used to analyze and monitor environmental change.
-
-My academic and professional interests lie at the intersection of ecology and geospatial technology. I am particularly interested in how remote sensing and spatial analysis can be used to better understand ecological patterns, monitor landscapes, and support environmental decision-making.
 
