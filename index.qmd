@@ -2,13 +2,13 @@
 title: "Home"
 ---
 
-<div class="banner">
-  <div class="banner-text">
-    <h1>Grace Lush</h1>
-    <p>Master of Geomatics for Environmental Management</p>
-    <p>Remote Sensing | GIS | Environmental Analysis</p>
-  </div>
-</div>
+:::: banner
+::: banner-text
+<h1>Grace Lush</h1>
+<p>Master of Geomatics for Environmental Management</p>
+<p>Remote Sensing | GIS | Environmental Analysis</p>
+:::
+::::
 
 
 ## Welcome to my E-Portfolio!

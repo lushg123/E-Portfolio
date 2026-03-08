@@ -26,6 +26,9 @@ leaflet() %>%
 ```
 
 ::: {.panel-tabset group="language"}
+
+## My Methodology
+
 ## R
 
 ``` (.r)
