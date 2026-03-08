@@ -4,15 +4,19 @@
   grid-template-columns: repeat(3, 1fr); /* 3 columns */
   gap: 20px; /* space between images */
   margin-top: 30px;
+  width: 100%;       /* make grid span the page */
 }
 
 /* Images inside the grid */
 .grid img {
-  width: 100%;       /* fill column width */
-  height: auto;      /* maintain aspect ratio */
+  width: 100%;        /* fill the column */
+  max-width: 600px;   /* optional: prevents images from being too stretched */
+  height: auto;       /* maintain aspect ratio */
   border-radius: 8px; /* rounded corners */
-  object-fit: cover;  /* nice crop/fill */
+  object-fit: cover;  /* crop/fill nicely */
   transition: transform 0.3s ease;
+  display: block;     /* removes extra space below images */
+  margin: 0 auto;     /* centers image if smaller than column */
 }
 
 /* Hover effect */
@@ -26,3 +30,16 @@
   margin-top: 8px;
 }
 
+/* Responsive: 2 columns on medium screens */
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Responsive: 1 column on small screens */
+@media (max-width: 600px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
