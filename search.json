@@ -131,5 +131,19 @@
     "title": "My MGEM Capstone Project",
     "section": "My Methodology",
     "text": "My Methodology\nHere is a workflow summarizing the methodology of this project.\n\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
+  },
+  {
+    "objectID": "content.html#key-takeaways",
+    "href": "content.html#key-takeaways",
+    "title": "My MGEM Capstone Project",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\nApplied remote sensing and GIS techniques to monitor shoreline habitat changes in Cable Bay, Nanaimo, BC.\nQuantified land cover transitions and habitat gains/losses using supervised classification and change detection.\nApplied and strengthened skills learned in the MGEM program, including satellite image processing, spatial analysis, and geospatial visualization."
+  },
+  {
+    "objectID": "content.html#skills-tools-applied",
+    "href": "content.html#skills-tools-applied",
+    "title": "My MGEM Capstone Project",
+    "section": "Skills & Tools Applied",
+    "text": "Skills & Tools Applied\nGIS & Mapping: QGIS, Leaflet, and ArcGIS\nProgramming & Data Analysis: R (terra, raster, sf,RStoolbox).\nData Visualization: Bar plots, maps, interactive dashboards\nEnvironmental Applications: Habitat monitoring, shoreline conservation, spatial change analysis"
   }
 ]

@@ -5,6 +5,7 @@ editor: visual
 ---
 
 ## Summary
+
 My MGEM capstone projects takes a close look at the Cable Bay area in Nanaimo, BC to investigate spatial and temporal changes in shoreline habitats around Cable Bay using remote sensing and geomatics techniques. The project aims to provide a detailed understanding of how shoreline land cover types have shifted over the period 2020 to 2025, supporting conservation and environmental management efforts in the region.
 
 Using high-resolution satellite imagery and geospatial analysis tools, the study identifies patterns in shoreline vegetation, intertidal zones, and other ecological features. The project leverages land cover classification, image differencing, and GIS-based spatial analysis to quantify habitat changes and map areas of significant ecological transformation.
@@ -32,8 +33,6 @@ Here is a workflow summarizing the methodology of this project.
 
 ![](images/workflow.png){width="100%"}
 
-
-
 ::: {.panel-tabset group="language"}
 ## R
 
@@ -58,3 +57,21 @@ def calc_ndvi(nir, red):
 :::
 
 ## 
+
+## Key Takeaways
+
+Applied remote sensing and GIS techniques to monitor shoreline habitat changes in Cable Bay, Nanaimo, BC.
+
+Quantified land cover transitions and habitat gains/losses using supervised classification and change detection.
+
+Applied and strengthened skills learned in the MGEM program, including satellite image processing, spatial analysis, and geospatial visualization.
+
+## Skills & Tools Applied
+
+GIS & Mapping: QGIS, Leaflet, and ArcGIS
+
+Programming & Data Analysis: R (terra, raster, sf,RStoolbox).
+
+Data Visualization: Bar plots, maps, interactive dashboards
+
+Environmental Applications: Habitat monitoring, shoreline conservation, spatial change analysis
