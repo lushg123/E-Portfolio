@@ -78,6 +78,11 @@ The 2025 classified map illustrates the updated shoreline land cover, allowing c
 
 ![](images/shoreline_2025.png){width="60%"}
 
+Land cover conversions to and from Open Water, 2020–2025.
+
+![](images/graph.png){width="60%"}
+
+
 ## Key Takeaways
 
 Applied remote sensing and GIS techniques to monitor shoreline habitat changes in Cable Bay, Nanaimo, BC.
