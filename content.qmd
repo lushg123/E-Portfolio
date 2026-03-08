@@ -26,13 +26,15 @@ leaflet() %>%
   addMarkers(lng = -123.81988, lat = 49.13603, popup = "Target Location")
 ```
 
-::: {.panel-tabset group="language"}
 ## My Methodology
 
 Here is a workflow summarizing the methodology of this project.
 
 ![](images/workflow.png){width="100%"}
 
+
+
+::: {.panel-tabset group="language"}
 ## R
 
 ``` (.r)

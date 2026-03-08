@@ -102,7 +102,7 @@
     "href": "content.html#my-study-area",
     "title": "My MGEM Capstone Project",
     "section": "My Study Area",
-    "text": "My Study Area\nBelow displays the study area for my capstone, the Cable Cay trail shoreline in Nanaimo, BC!\n\n\n\n\n\n\n\nMy MethodologyRPython\n\n\nHere is a workflow summarizing the methodology of this project.\n\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
+    "text": "My Study Area\nBelow displays the study area for my capstone, the Cable Cay trail shoreline in Nanaimo, BC!"
   },
   {
     "objectID": "index.html#welcome",
@@ -124,5 +124,12 @@
     "title": "My MGEM Capstone Project",
     "section": "",
     "text": "My MGEM capstone projects takes a close look at the Cable Bay area in Nanaimo, BC to investigate spatial and temporal changes in shoreline habitats around Cable Bay using remote sensing and geomatics techniques. The project aims to provide a detailed understanding of how shoreline land cover types have shifted over the period 2020 to 2025, supporting conservation and environmental management efforts in the region.\nUsing high-resolution satellite imagery and geospatial analysis tools, the study identifies patterns in shoreline vegetation, intertidal zones, and other ecological features. The project leverages land cover classification, image differencing, and GIS-based spatial analysis to quantify habitat changes and map areas of significant ecological transformation.\nThis work highlights my interest in the intersection of ecology and geomatics, demonstrating how remote sensing can be applied to monitor environmental change, support data-driven decision-making, and inform environmental management practices. The findings of this project aim to provide valuable insights for the city of Nanaimo and conservation initiatives focused on the environmental preservation of the area."
+  },
+  {
+    "objectID": "content.html#my-methodology",
+    "href": "content.html#my-methodology",
+    "title": "My MGEM Capstone Project",
+    "section": "My Methodology",
+    "text": "My Methodology\nHere is a workflow summarizing the methodology of this project.\n\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
   }
 ]
