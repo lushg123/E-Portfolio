@@ -11,7 +11,7 @@ title: "Home"
 </div>
 
 
-## Welcome
+## Welcome to my E-Portfolio!
 
 Welcome to my MGEM e-portfolio. This website showcases my academic work, GIS projects, and capstone research completed during the Master of Geomatics for Environmental Management program.
 
