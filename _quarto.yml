@@ -12,8 +12,6 @@ website:
         text: About Me
       - href: resume.qmd
         text: Resume
-      - href: publications.qmd
-        text: Deliverables
       - href: content.qmd
         text: My MGEM Capstone
 
