@@ -43,3 +43,36 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Banner container */
+.banner {
+  background-image: url("images/banner.jpg"); /* path to your banner image */
+  height: 600px; /* taller for a more prominent banner */
+  width: 100%; /* full page width */
+  background-size: cover; /* image fills the banner */
+  background-position: center; /* center the image */
+  display: flex;
+  align-items: center; /* vertical center */
+  justify-content: center; /* horizontal center */
+}
+
+/* Text overlay */
+.banner-text {
+  text-align: center;
+  color: white;
+  background: rgba(0, 0, 0, 0.4); /* semi-transparent black background */
+  padding: 30px 50px;
+  border-radius: 10px;
+}
+
+/* Banner heading */
+.banner-text h1 {
+  font-size: 3.5rem;
+  margin-bottom: 10px;
+}
+
+/* Banner subtext */
+.banner-text p {
+  font-size: 1.2rem;
+  margin: 5px 0;
+}
