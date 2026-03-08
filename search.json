@@ -117,5 +117,12 @@
     "title": "Home",
     "section": "Welcome to my E-Portfolio!",
     "text": "Welcome to my E-Portfolio!\nWelcome to my MGEM e-portfolio. This website showcases my academic work, GIS projects, and capstone research completed during the Master of Geomatics for Environmental Management program.\nThrough this portfolio, you will find:\n\nInformation about my background and interests\nMy professional resume\nKey course deliverables and projects\nDetails about my MGEM capstone research\n\nMy work focuses on applying GIS, spatial analysis, and remote sensing to better understand environmental change and support data-driven decision making.\nThank you for visiting my portfolio."
+  },
+  {
+    "objectID": "content.html#summary",
+    "href": "content.html#summary",
+    "title": "My MGEM Capstone Project",
+    "section": "",
+    "text": "My MGEM capstone projects takes a close look at the Cable Bay area in Nanaimo, BC to investigate spatial and temporal changes in shoreline habitats around Cable Bay using remote sensing and geomatics techniques. The project aims to provide a detailed understanding of how shoreline land cover types have shifted over the period 2020 to 2025, supporting conservation and environmental management efforts in the region.\nUsing high-resolution satellite imagery and geospatial analysis tools, the study identifies patterns in shoreline vegetation, intertidal zones, and other ecological features. The project leverages land cover classification, image differencing, and GIS-based spatial analysis to quantify habitat changes and map areas of significant ecological transformation.\nThis work highlights my interest in the intersection of ecology and geomatics, demonstrating how remote sensing can be applied to monitor environmental change, support data-driven decision-making, and inform environmental management practices. The findings of this project aim to provide valuable insights for the city of Nanaimo and conservation initiatives focused on the environmental preservation of the area."
   }
 ]
