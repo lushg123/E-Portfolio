@@ -1,13 +1,26 @@
 ---
-title: "Grace Lush"
-about:
-  template: trestles
-  image-width: 20em
-  links: 
-    - icon: envelope-at
-      text: Email
-      href: mailto:lushg123@student.ubc.ca
+title: "Home"
 ---
 
+<div class="banner">
+  <div class="banner-text">
+    <h1>Grace Lush</h1>
+    <p>Master of Geomatics for Environmental Management</p>
+    <p>Remote Sensing | GIS | Environmental Analysis</p>
+  </div>
+</div>
 
-# **Welcome to my E-Portfolio**
+## Welcome
+
+Welcome to my MGEM e-portfolio. This website showcases my academic work, GIS projects, and capstone research completed during the Master of Geomatics for Environmental Management program.
+
+Through this portfolio, you will find:
+
+- Information about my background and interests
+- My professional resume
+- Key course deliverables and projects
+- Details about my MGEM capstone research
+
+My work focuses on applying **GIS, spatial analysis, and remote sensing** to better understand environmental change and support data-driven decision making.
+
+Thank you for visiting my portfolio.

@@ -6,6 +6,8 @@ website:
   title: "Grace Lush"  
   navbar:
     left:
+      - href: index.qmd
+        text: Home
       - href: aboutme.qmd
         text: About Me
       - href: resume.qmd
