@@ -6,11 +6,11 @@ about:
 ---
 
 ::: {.grid layout-ncol="3"}
-![](images/penny1.png)
+![](images/penny1.png){width=400px}
 
-![](images/grad.jpeg)
+![](images/grad.jpeg){width=400px}
 
-![](images/processed-0AF6773D-BD33-40F9-88D4-9371A02CCCED.jpeg)
+![](images/processed-0AF6773D-BD33-40F9-88D4-9371A02CCCED.jpeg){width=400px}
 :::
 
 **How did I get here**
