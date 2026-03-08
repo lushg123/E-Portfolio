@@ -14,7 +14,7 @@ This work highlights my interest in the intersection of ecology and geomatics, d
 
 Below displays the study area for my capstone, the Cable Cay trail shoreline in Nanaimo, BC!
 
-```{r leaflet-map, echo=FALSE}
+```{r leaflet-map, echo=FALSE, warning=FALSE, message=FALSE}
 library(dplyr)
 library(leaflet)
 
