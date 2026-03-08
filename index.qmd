@@ -10,16 +10,17 @@ title: "Home"
   </div>
 </div>
 
+
 ## Welcome
 
 Welcome to my MGEM e-portfolio. This website showcases my academic work, GIS projects, and capstone research completed during the Master of Geomatics for Environmental Management program.
 
 Through this portfolio, you will find:
 
-- Information about my background and interests
-- My professional resume
-- Key course deliverables and projects
-- Details about my MGEM capstone research
+-   Information about my background and interests
+-   My professional resume
+-   Key course deliverables and projects
+-   Details about my MGEM capstone research
 
 My work focuses on applying **GIS, spatial analysis, and remote sensing** to better understand environmental change and support data-driven decision making.
 
