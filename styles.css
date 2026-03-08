@@ -60,7 +60,7 @@
 .banner-text {
   text-align: center;
   color: white;
-  background: rgba(0, 0, 0, 0.4); /* semi-transparent black background */
+  background: rgba(0, 0, 255, 0.3); /* semi-transparent black background */
   padding: 30px 50px;
   border-radius: 10px;
 }
