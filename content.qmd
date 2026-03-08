@@ -33,6 +33,9 @@ Here is a workflow summarizing the methodology of this project.
 
 ![](images/workflow.png){width="100%"}
 
+
+### Example Code
+
 ::: {.panel-tabset group="language"}
 ## Preproccsing Code
 
@@ -62,6 +65,11 @@ mlc_model <- superClass(
 :::
 
 ## Results through Figures
+
+The confusion matrix shows how well the classification matched the reference data, highlighting overall accuracy and class-specific performance.
+
+![](images/confusion_matrix.png){width="100%"}
+
 
 ## Key Takeaways
 

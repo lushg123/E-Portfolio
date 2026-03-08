@@ -151,6 +151,6 @@
     "href": "content.html#results-through-figures",
     "title": "My MGEM Capstone Project",
     "section": "Results through Figures",
-    "text": "Results through Figures"
+    "text": "Results through Figures\nThe confusion matrix shows how well the classification matched the reference data, highlighting overall accuracy and class-specific performance."
   }
 ]
