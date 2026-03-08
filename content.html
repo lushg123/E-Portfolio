@@ -149,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#summary" id="toc-summary" class="nav-link active" data-scroll-target="#summary">Summary</a></li>
   <li><a href="#my-study-area" id="toc-my-study-area" class="nav-link" data-scroll-target="#my-study-area">My Study Area</a></li>
   <li><a href="#my-methodology" id="toc-my-methodology" class="nav-link" data-scroll-target="#my-methodology">My Methodology</a></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  <li><a href="#results-through-figures" id="toc-results-through-figures" class="nav-link" data-scroll-target="#results-through-figures">Results through Figures</a></li>
   <li><a href="#key-takeaways" id="toc-key-takeaways" class="nav-link" data-scroll-target="#key-takeaways">Key Takeaways</a></li>
   <li><a href="#skills-tools-applied" id="toc-skills-tools-applied" class="nav-link" data-scroll-target="#skills-tools-applied">Skills &amp; Tools Applied</a></li>
   </ul>
@@ -188,8 +188,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Below displays the study area for my capstone, the Cable Cay trail shoreline in Nanaimo, BC!</p>
 <div class="cell">
 <div class="cell-output-display">
-<div class="leaflet html-widget html-fill-item" id="htmlwidget-3990e56d90c6e6ec79ec" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-3990e56d90c6e6ec79ec">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addProviderTiles","args":["Esri.WorldImagery",null,null,{"errorTileUrl":"","noWrap":false,"detectRetina":false}]},{"method":"addScaleBar","args":[{"maxWidth":100,"metric":true,"imperial":true,"updateWhenIdle":true,"position":"bottomleft"}]},{"method":"addMarkers","args":[49.13603,-123.81988,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Target Location",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"setView":[[49.13603,-123.81988],15,[]],"limits":{"lat":[49.13603,49.13603],"lng":[-123.81988,-123.81988]}},"evals":[],"jsHooks":[]}</script>
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-222bff784e3c15000dd1" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-222bff784e3c15000dd1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addProviderTiles","args":["Esri.WorldImagery",null,null,{"errorTileUrl":"","noWrap":false,"detectRetina":false}]},{"method":"addScaleBar","args":[{"maxWidth":100,"metric":true,"imperial":true,"updateWhenIdle":true,"position":"bottomleft"}]},{"method":"addMarkers","args":[49.13603,-123.81988,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Target Location",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"setView":[[49.13603,-123.81988],15,[]],"limits":{"lat":[49.13603,49.13603],"lng":[-123.81988,-123.81988]}},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </section>
@@ -198,26 +198,21 @@ ul.task-list li input[type="checkbox"] {
 <p>Here is a workflow summarizing the methodology of this project.</p>
 <p><img src="images/workflow.png" class="img-fluid" style="width:100.0%"></p>
 <div class="tabset-margin-container"></div><div class="panel-tabset" data-group="language">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">R</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">Python</a></li></ul>
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">Preproccsing Code</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">Supervised Classification Code</a></li></ul>
 <div class="tab-content" data-group="language">
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<pre class="(.r)"><code>calc_ndvi &lt;- function(nir, red){
-  ndvi &lt;- (nir-red)/(nir+red)
-  return(ndvi)
-}</code></pre>
-<p>(Assuming <em>nir</em> and <em>red</em> are terra rast objects)</p>
+<p><code>{.r .(.r)} calc_ndvi &lt;- function(nir, red){   ndvi &lt;- (nir - red) / (nir + red)   return(ndvi) }</code></p>
+<p>(Calculates NDVI from Sentinel-2 bands)</p>
 </div>
 <div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-<pre class="(.python)"><code>def calc_ndvi(nir, red): 
-  ndvi = (nir - red)/(nir + red)
-  return(ndvi)</code></pre>
-<p>(Assuming <em>nir</em> and <em>red</em> are numpy arrays)</p>
+<p><code>{.r .(.python)} mlc_model &lt;- superClass(   img = sentinel_raster,   trainData = training_polygons,   valData = validation_polygons,   responseCol = "lc_class",   model = "rf",   nSamples = 100 )</code></p>
+<p><em>(Trains a classification model to map land cover classes for 2025 Cable Bay data)</em></p>
 </div>
 </div>
 </div>
 </section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
+<section id="results-through-figures" class="level2">
+<h2 class="anchored" data-anchor-id="results-through-figures">Results through Figures</h2>
 </section>
 <section id="key-takeaways" class="level2">
 <h2 class="anchored" data-anchor-id="key-takeaways">Key Takeaways</h2>

@@ -130,7 +130,7 @@
     "href": "content.html#my-methodology",
     "title": "My MGEM Capstone Project",
     "section": "My Methodology",
-    "text": "My Methodology\nHere is a workflow summarizing the methodology of this project.\n\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
+    "text": "My Methodology\nHere is a workflow summarizing the methodology of this project.\n\n\nPreproccsing CodeSupervised Classification Code\n\n\n{.r .(.r)} calc_ndvi &lt;- function(nir, red){   ndvi &lt;- (nir - red) / (nir + red)   return(ndvi) }\n(Calculates NDVI from Sentinel-2 bands)\n\n\n{.r .(.python)} mlc_model &lt;- superClass(   img = sentinel_raster,   trainData = training_polygons,   valData = validation_polygons,   responseCol = \"lc_class\",   model = \"rf\",   nSamples = 100 )\n(Trains a classification model to map land cover classes for 2025 Cable Bay data)"
   },
   {
     "objectID": "content.html#key-takeaways",
@@ -145,5 +145,12 @@
     "title": "My MGEM Capstone Project",
     "section": "Skills & Tools Applied",
     "text": "Skills & Tools Applied\nGIS & Mapping: QGIS, Leaflet, and ArcGIS\nProgramming & Data Analysis: R (terra, raster, sf,RStoolbox).\nData Visualization: Bar plots, maps, interactive dashboards\nEnvironmental Applications: Habitat monitoring, shoreline conservation, spatial change analysis"
+  },
+  {
+    "objectID": "content.html#results-through-figures",
+    "href": "content.html#results-through-figures",
+    "title": "My MGEM Capstone Project",
+    "section": "Results through Figures",
+    "text": "Results through Figures"
   }
 ]

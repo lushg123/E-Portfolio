@@ -34,29 +34,34 @@ Here is a workflow summarizing the methodology of this project.
 ![](images/workflow.png){width="100%"}
 
 ::: {.panel-tabset group="language"}
-## R
+## Preproccsing Code
 
-``` (.r)
+``` {.r .(.r)}
 calc_ndvi <- function(nir, red){
-  ndvi <- (nir-red)/(nir+red)
+  ndvi <- (nir - red) / (nir + red)
   return(ndvi)
 }
 ```
 
-(Assuming *nir* and *red* are terra rast objects)
+(Calculates NDVI from Sentinel-2 bands)
 
-## Python
+## Supervised Classification Code 
 
-``` (.python)
-def calc_ndvi(nir, red): 
-  ndvi = (nir - red)/(nir + red)
-  return(ndvi)
+``` {.r .(.python)}
+mlc_model <- superClass(
+  img = sentinel_raster,
+  trainData = training_polygons,
+  valData = validation_polygons,
+  responseCol = "lc_class",
+  model = "rf",
+  nSamples = 100
+)
 ```
 
-(Assuming *nir* and *red* are numpy arrays)
+*(Trains a classification model to map land cover classes for 2025 Cable Bay data)*
 :::
 
-## 
+## Results through Figures
 
 ## Key Takeaways
 
