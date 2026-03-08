@@ -26,8 +26,11 @@ leaflet() %>%
 ```
 
 ::: {.panel-tabset group="language"}
-
 ## My Methodology
+
+Here is a workflow summarizing the methodology of this project.
+
+![](images/workflow.png){width="100%"}
 
 ## R
 

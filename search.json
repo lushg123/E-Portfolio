@@ -102,7 +102,7 @@
     "href": "content.html#my-study-area",
     "title": "My MGEM Capstone Project",
     "section": "My Study Area",
-    "text": "My Study Area\nBelow displays the study area for my capstone, the Cable Cay trail shoreline in Nanaimo, BC!\n\n\n\n\n\n\n\nMy MethodologyRPython\n\n\n\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
+    "text": "My Study Area\nBelow displays the study area for my capstone, the Cable Cay trail shoreline in Nanaimo, BC!\n\n\n\n\n\n\n\nMy MethodologyRPython\n\n\nHere is a workflow summarizing the methodology of this project.\n\n\n\ncalc_ndvi &lt;- function(nir, red){\n  ndvi &lt;- (nir-red)/(nir+red)\n  return(ndvi)\n}\n(Assuming nir and red are terra rast objects)\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir - red)/(nir + red)\n  return(ndvi)\n(Assuming nir and red are numpy arrays)"
   },
   {
     "objectID": "index.html#welcome",
