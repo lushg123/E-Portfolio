@@ -5,12 +5,11 @@ about:
   image-width: 20em
 ---
 
-::: {.grid layout-ncol="3" gap="1em"}
-![](images/penny1.png){width="100%"}
+![](images/penny1.png)
 
-![](images/grad.jpeg){width="100%"}
+![](images/grad.jpeg)
 
-![](images/processed-0AF6773D-BD33-40F9-88D4-9371A02CCCED.jpeg){width="100%"}
+![](images/processed-0AF6773D-BD33-40F9-88D4-9371A02CCCED.jpeg)
 
 :::
 
