@@ -1,0 +1,28 @@
+/* Grid container */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  gap: 20px; /* space between images */
+  margin-top: 30px;
+}
+
+/* Images inside the grid */
+.grid img {
+  width: 100%;       /* fill column width */
+  height: auto;      /* maintain aspect ratio */
+  border-radius: 8px; /* rounded corners */
+  object-fit: cover;  /* nice crop/fill */
+  transition: transform 0.3s ease;
+}
+
+/* Hover effect */
+.grid img:hover {
+  transform: scale(1.05);
+}
+
+/* Optional text below images */
+.grid p {
+  text-align: center;
+  margin-top: 8px;
+}
+
