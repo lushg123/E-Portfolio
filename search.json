@@ -130,7 +130,7 @@
     "href": "content.html#my-methodology",
     "title": "My MGEM Capstone Project",
     "section": "My Methodology",
-    "text": "My Methodology\nHere is a workflow summarizing the methodology of this project.\n\n\nPreproccsing CodeSupervised Classification Code\n\n\n{.r .(.r)} calc_ndvi &lt;- function(nir, red){   ndvi &lt;- (nir - red) / (nir + red)   return(ndvi) }\n(Calculates NDVI from Sentinel-2 bands)\n\n\n{.r .(.python)} mlc_model &lt;- superClass(   img = sentinel_raster,   trainData = training_polygons,   valData = validation_polygons,   responseCol = \"lc_class\",   model = \"rf\",   nSamples = 100 )\n(Trains a classification model to map land cover classes for 2025 Cable Bay data)"
+    "text": "My Methodology\nHere is a workflow summarizing the methodology of this project.\n\n\nExample Code\n\nPreproccsing CodeSupervised Classification Code\n\n\n{.r .(.r)} calc_ndvi &lt;- function(nir, red){   ndvi &lt;- (nir - red) / (nir + red)   return(ndvi) }\n(Calculates NDVI from Sentinel-2 bands)\n\n\n{.r .(.python)} mlc_model &lt;- superClass(   img = sentinel_raster,   trainData = training_polygons,   valData = validation_polygons,   responseCol = \"lc_class\",   model = \"rf\",   nSamples = 100 )\n(Trains a classification model to map land cover classes for 2025 Cable Bay data)"
   },
   {
     "objectID": "content.html#key-takeaways",
@@ -151,6 +151,6 @@
     "href": "content.html#results-through-figures",
     "title": "My MGEM Capstone Project",
     "section": "Results through Figures",
-    "text": "Results through Figures\nThe confusion matrix shows how well the classification matched the reference data, highlighting overall accuracy and class-specific performance."
+    "text": "Results through Figures\nThe confusion matrix shows how well the classification matched the reference data, highlighting overall accuracy and class-specific performance.\n\nhe 2020 classified map displays the distribution of shoreline land cover around Cable Bay, showing the extent of vegetation, open water, mudflats, and built areas at the start of the study period.\n\nThe 2025 classified map illustrates the updated shoreline land cover, allowing comparison with 2020 to identify habitat changes and trends over the five-year period"
   }
 ]

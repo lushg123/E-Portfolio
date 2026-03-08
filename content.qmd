@@ -68,8 +68,15 @@ mlc_model <- superClass(
 
 The confusion matrix shows how well the classification matched the reference data, highlighting overall accuracy and class-specific performance.
 
-![](images/confusion_matrix.png){width="100%"}
+![](images/confusion_matrix.png){width="60%"}
 
+he 2020 classified map displays the distribution of shoreline land cover around Cable Bay, showing the extent of vegetation, open water, mudflats, and built areas at the start of the study period.
+
+![](images/shorline_2020.png){width="60%"}
+
+The 2025 classified map illustrates the updated shoreline land cover, allowing comparison with 2020 to identify habitat changes and trends over the five-year period
+
+![](images/shoreline_2025.png){width="60%"}
 
 ## Key Takeaways
 
