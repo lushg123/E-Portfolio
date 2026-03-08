@@ -5,8 +5,6 @@ about:
   image-width: 20em
 ---
 
-# **Welcome to my E-Portfolio**
-
 ::: {.grid layout-ncol="3"}
 ![](images/penny1.png)
 
